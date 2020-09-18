@@ -1,0 +1,8 @@
+Significant changes in early v late networks:
+(holm p-value <= 0.05)
+
+P1, C1: Actb, Cdk2, Ctcf, Ctnnb1, Dnmt1, Dnmt3b, Eomes, Gapdh, Hdac1, Jarid2, Lin28a, Mbd3, Mef2a, Prmt7, Rcc1, Rest, Sall4, Smarcc1, Tcf7l1, Tubb3, Wdr5
+P1, C3: Cdh2, Dppa4, Fbxo15, Fgf4, Gdf3, Otx2, Pou5f1, Utf1, Zfp42
+P1, C5: Bmi1, Bmp7, Bmpr1a, Grb2, Jag1, Kdm1a, Mki67ip, Myst3, Nestin, Pax6, Prmt6, Ptpn11, Rai1, Smad1, Vim
+P1, C6: Bmp4, Esrrb, Fgfr2, Foxa2, Klf4, Lifr, Myc, Nanog, Nr0b1, Nr5a2, Socs3, Stat3, Tbx3
+P2, C1: Actb, Cdk2, Ctcf, Ctnnb1, Dnmt1, Dnmt3b, Eomes, Gapdh, Hdac1, Jarid2, Kdm1a, Lin28a, Mbd3, Mef2a, Nr6a1, Prmt7, Rcc1, Rest, Sall4, Setdb1, Smarcc1, Tcf7l1, Tubb3, Wdr5
