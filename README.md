@@ -13,7 +13,7 @@ Microarray data: https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-5861/
 
 ### Network inference & visualisation
 
-1) Apply k-means clustering with k=3.
+1) Apply k-means clustering with k=3 (see 'NeuronalDifferentiation.Rmd')
 2) Run network inference on the complete data (ESC/EPI/NPC) and split data into (ESC/EPI) and (EPI/NPC) timepoints using cell-state assignment from k-means (data from both biological replicates).
 3) Prune bottom 95% of edges (maintaining the top 5% PID scores).
 4) Run community detection on pruned (ESC/EPI/NPC) network (method: PMID: 20615936).
